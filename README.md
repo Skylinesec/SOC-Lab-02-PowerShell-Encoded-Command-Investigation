@@ -18,4 +18,4 @@ A simulated SOC Level 1 investigation into a PowerShell process executed with th
 | Log Forwarding   | Splunk Universal Forwarder |
 
 ## Detection
-PowerShell executed using the -EncodedCommand parameter.
+PowerShell executed using the **-EncodedCommand** parameter.
