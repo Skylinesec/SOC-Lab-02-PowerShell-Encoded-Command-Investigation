@@ -62,3 +62,17 @@ No additional indicators of compromise or suspicious post-execution activity wer
 **Severity:** Low
 
 **Disposition:** Closed as Benign
+
+# MITRE ATT&CK
+| Technique | Description |
+| --------- | ----------- |
+| T1059.001 | PowerShell  |
+
+## Skills Demonstrated
+- Splunk investigations
+- Sysmon Event ID 1 analysis
+- Process tree analysis
+- Base64 decoding
+- Threat triage
+- Incident documentation
+- MITRE ATT&CK mapping
