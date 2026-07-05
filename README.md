@@ -23,4 +23,8 @@ PowerShell executed using the **"-EncodedCommand"** parameter.
 ## Investigation
 ### Step 1
 Search for PowerShell executions.
-<img width="774" height="702" alt="Github 2 Image" src="https://github.com/user-attachments/assets/aade2292-33b9-4b01-9fc4-7392b765fa3c" />
+<img width="1048" height="699" alt="Powershellexe" src="https://github.com/user-attachments/assets/f5a32404-dc9b-470f-b57f-1d3a7239b283" />
+
+
+### Step 2
+Review process details.
