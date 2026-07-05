@@ -19,3 +19,8 @@ A simulated SOC Level 1 investigation into a PowerShell process executed with th
 
 ## Detection
 PowerShell executed using the **"-EncodedCommand"** parameter.
+
+## Investigation
+### Step 1
+Search for PowerShell executions.
+<img width="774" height="702" alt="Github 2 Image" src="https://github.com/user-attachments/assets/aade2292-33b9-4b01-9fc4-7392b765fa3c" />
