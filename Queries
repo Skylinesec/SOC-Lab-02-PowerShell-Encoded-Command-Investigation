@@ -1,1 +1,3 @@
-
+SPL: index=main EventCode=1 Image="*powershell.exe"
+Poweshell command: [Svstem. Text. Encodinal: :Unicode.GetStrina(
+» [System. Convert]: FromBase64String ("SABLAGwAbABvACAAUwBPAEMA"))
