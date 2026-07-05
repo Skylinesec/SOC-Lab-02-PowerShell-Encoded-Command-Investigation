@@ -16,3 +16,6 @@ A simulated SOC Level 1 investigation into a PowerShell process executed with th
 | Endpoint Logs    | Sysmon                     |
 | Operating System | Windows 11                 |
 | Log Forwarding   | Splunk Universal Forwarder |
+
+## Detection
+PowerShell executed using the -EncodedCommand parameter.
