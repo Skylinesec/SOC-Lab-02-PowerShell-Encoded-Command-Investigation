@@ -8,3 +8,11 @@ A simulated SOC Level 1 investigation into a PowerShell process executed with th
 - Analyze process creation events
 - Determine whether escalation is required
 - Document findings using SOC methodology
+
+## Environment
+| Component        | Technology                 |
+| ---------------- | -------------------------- |
+| SIEM             | Splunk Enterprise          |
+| Endpoint Logs    | Sysmon                     |
+| Operating System | Windows 11                 |
+| Log Forwarding   | Splunk Universal Forwarder |
