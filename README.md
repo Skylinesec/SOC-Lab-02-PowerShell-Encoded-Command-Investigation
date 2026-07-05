@@ -43,4 +43,22 @@ Checked for suspicious activity:
 
 **No suspicious behavior observed.**
 
+## Findings
+| Item                | Result |
+| ------------------- | ------ |
+| PowerShell          | Yes    |
+| Encoded Command     | Yes    |
+| Downloads           | None   |
+| Child Processes     | None   |
+| Network Connections | None   |
+| Registry Changes    | None   |
+| Malicious Payload   | No     |
 
+## Analyst Assessment
+The alert was triggered by PowerShell using the **"-EncodedCommand"** parameter, a technique frequently used by attackers to obfuscate malicious commands. The encoded content was decoded and determined to contain only the text "Hello SOC."
+
+No additional indicators of compromise or suspicious post-execution activity were identified.
+
+**Severity:** Low
+
+**Disposition:** Closed as Benign
