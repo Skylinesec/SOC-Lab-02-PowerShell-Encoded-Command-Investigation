@@ -2,7 +2,7 @@
 
 A simulated SOC Level 1 investigation into a PowerShell process executed with the -EncodedCommand parameter. The objective was to determine whether the execution represented malicious activity or a benign administrative action.
 
-# Objectives
+## Objectives
 - Investigate a PowerShell alert
 - Decode a Base64 command
 - Analyze process creation events
